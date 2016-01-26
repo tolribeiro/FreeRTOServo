@@ -16,3 +16,7 @@ Moreover, the other resources used are:
 * A **queue** that makes possible the exchange of information between the Servo and Switch task;
 * A **semaphore** that protects the UART of being accessed by multiple tasks at the same time;
 * A **delay** that blocks the tasks when they are not being executed.
+
+><br/>
+<a href="https://www.youtube.com/watch?v=oG5xvDpPqIs" target="_blank"><img src="http://toribeiro.com/static/img/youtube-screenshot-2.png" width="499" height="312" class="img-responsive center-block" /><a/>
+<br/>
