@@ -20,3 +20,5 @@ Moreover, the other resources used are:
 ><br/>
 <a href="https://www.youtube.com/watch?v=oG5xvDpPqIs" target="_blank"><img src="http://toribeiro.com/static/img/youtube-screenshot-2.png" width="499" height="312" class="img-responsive center-block" /><a/>
 <br/>
+
+P.S.: This project was created using Code Composer Studio, so make sure you use it to compile the code.
