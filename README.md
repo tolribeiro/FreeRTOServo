@@ -1,5 +1,6 @@
 # FreeRTOServo
-This application demonstrates the use of FreeRTOS tasks to control a servo using a Tiva C board from TI.
+This application demonstrates the use of FreeRTOS tasks to control a servo using a Tiva C board from TI. Once FreeRTOS
+is uploaded to the board, you can start playing with the OS features. 
 
 ## Moving the servo
 To select the direction, the user presses one of the buttons on the board: `SW1` to move the pointer to the left and `SW2` to move the pointer to the right.
